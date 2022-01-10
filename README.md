@@ -1,7 +1,8 @@
 # urlshortener_php
 URL Shortener just using php, the user enters a URL and the code stores the url in the database and returns a localhost shortened URL.
+Files live on master branch, not main.
 
-*No styling is present, there is another repo with react styling.
+*No styling is present, there is another repo with react styling.*
 
 
 Code uses a MySQL database
