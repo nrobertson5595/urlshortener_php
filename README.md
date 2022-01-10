@@ -10,6 +10,7 @@ Code uses a MySQL database
 PHP version: 8.0.1
 
 Database is structured to have a name of "url_short" and a table name of "urls".
+There are 2 rows in my build "ID" and "long_url"
 
 $user = 'root';
 
